@@ -1,0 +1,2 @@
+Unable to set video mode: No video mode large enough for 1440x900
+failed

@@ -1,0 +1,480 @@
+# depslib dependency file v1.0
+1370986676 source:c:\program files (x86)\codeblocks\projects\pfgtests\sdl\sdlthing\main.cpp
+	"include/Sprite.h"
+
+1370977235 c:\program files (x86)\codeblocks\projects\pfgtests\sdl\sdlthing\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1370982376 source:c:\program files (x86)\codeblocks\projects\pfgtests\sdl\sdlthing\src\sprite.cpp
+	"../include/Sprite.h"
+
+1370986676 source:c:\users\brostin\dropbox\game\workingmovement\main.cpp
+	"include/Sprite.h"
+
+1370977235 c:\users\brostin\dropbox\game\workingmovement\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1370982376 source:c:\users\brostin\dropbox\game\workingmovement\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371074479 source:c:\program files (x86)\codeblocks\projects\proj\workingmovement\main.cpp
+	"include/SDLGLSetup.h"
+
+1371096247 c:\program files (x86)\codeblocks\projects\proj\workingmovement\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371097106 source:c:\program files (x86)\codeblocks\projects\proj\workingmovement\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371098082 source:c:\program files (x86)\codeblocks\projects\proj\workingmovement\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371097274 c:\program files (x86)\codeblocks\projects\proj\workingmovement\include\sdlglsetup.h
+	"Fighter.h"
+	<string>
+
+1371097592 source:c:\program files (x86)\codeblocks\projects\proj\workingmovement\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371087144 c:\program files (x86)\codeblocks\projects\proj\workingmovement\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371097510 source:c:\program files (x86)\codeblocks\projects\proj\workingmovement\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371097887 c:\program files (x86)\codeblocks\projects\proj\workingmovement\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371105106 source:c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371100978 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371106276 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371100978 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371093992 source:c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371102616 source:c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\main.cpp
+	"include/SDLGLSetup.h"
+
+1371107770 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\sdlglsetup.h
+	"FightScene.h"
+
+1371100979 source:c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371106807 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\fightscene.h
+	"Fighter.h"
+
+1371107725 source:c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\src\fightscene.cpp
+	"../include//FightScene.h"
+
+1371106807 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\\fightscene.h
+	"Fighter.h"
+
+1371100978 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371106276 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371100978 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371106068 c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\include\\sdlglsetup.h
+
+1371107318 source:c:\program files (x86)\codeblocks\projects\shattered_bonds_6-12-2013\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371168161 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\main.cpp
+	"include/SDLGLSetup.h"
+
+1371168117 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\sdlglsetup.h
+	<time.h>
+	"../include/Timer.h"
+	"FightScene.h"
+
+1371254097 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\fightscene.h
+	"Fighter.h"
+
+1371172217 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371171652 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371142362 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371253452 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371254710 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\src\fightscene.cpp
+	"../include/FightScene.h"
+
+1371147750 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\\fightscene.h
+	"Fighter.h"
+
+1371143825 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371106276 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371142362 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371142400 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371171660 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371252458 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371158938 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\timer.h
+	<SDL/SDL.h>
+
+1371158924 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\src\timer.cpp
+	"../include/Timer.h"
+
+1371167702 source:c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\src\input.cpp
+	"../include/Input.h"
+
+1371167850 c:\users\brostin\desktop\game\shattered_bonds_6-12-2013\include\input.h
+
+1371168161 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\main.cpp
+	"include/SDLGLSetup.h"
+
+1371168117 d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\sdlglsetup.h
+	<time.h>
+	"../include/Timer.h"
+	"FightScene.h"
+
+1371158938 d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\timer.h
+	<SDL/SDL.h>
+
+1371254097 d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\fightscene.h
+	"Fighter.h"
+
+1371172217 d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371171652 d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371142362 d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371253452 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371254710 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\fightscene.cpp
+	"../include/FightScene.h"
+
+1371142400 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371167702 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\input.cpp
+	"../include/Input.h"
+
+1371167850 d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\input.h
+
+1371252458 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371171660 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371158924 source:d:\users\user\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\timer.cpp
+	"../include/Timer.h"
+
+1371168161 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\main.cpp
+	"include/SDLGLSetup.h"
+
+1371168117 c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\sdlglsetup.h
+	<time.h>
+	"../include/Timer.h"
+	"FightScene.h"
+
+1371158938 c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\timer.h
+	<SDL/SDL.h>
+
+1371268762 c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\fightscene.h
+	"Fighter.h"
+
+1371172217 c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371171652 c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371142362 c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371253452 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371142400 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371167702 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\input.cpp
+	"../include/Input.h"
+
+1371167850 c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\include\input.h
+
+1371268886 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371171660 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371158924 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\timer.cpp
+	"../include/Timer.h"
+
+1371268342 source:c:\users\brostin\dropbox\game\shattered_bonds\6-14-2013_shattered_bonds\src\fightscene.cpp
+	"../include/FightScene.h"
+
+1371168161 source:c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\main.cpp
+	"include/SDLGLSetup.h"
+
+1371168117 c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\include\sdlglsetup.h
+	<time.h>
+	"../include/Timer.h"
+	"FightScene.h"
+
+1371158938 c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\include\timer.h
+	<SDL/SDL.h>
+
+1371268762 c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\include\fightscene.h
+	"Fighter.h"
+
+1371172217 c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371171652 c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371142362 c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371253452 source:c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371142400 source:c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371167702 source:c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\src\input.cpp
+	"../include/Input.h"
+
+1371167850 c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\include\input.h
+
+1371268886 source:c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371171660 source:c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371158924 source:c:\users\brostin\desktop\game\shattered_bonds_6-14-2013\src\timer.cpp
+	"../include/Timer.h"
+
+1371168161 source:d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\main.cpp
+	"include/SDLGLSetup.h"
+
+1371168117 d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\sdlglsetup.h
+	<time.h>
+	"../include/Timer.h"
+	"FightScene.h"
+
+1371158938 d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\timer.h
+	<SDL/SDL.h>
+
+1371268762 d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\fightscene.h
+	"Fighter.h"
+
+1371172217 d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371171652 d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371142362 d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371253452 source:d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371142400 source:d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371167702 source:d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\input.cpp
+	"../include/Input.h"
+
+1371167850 d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\input.h
+
+1371268886 source:d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371171660 source:d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371158924 source:d:\users\user\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\timer.cpp
+	"../include/Timer.h"
+
+1371171761 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\main.cpp
+	"include/SDLGLSetup.h"
+
+1371171717 c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\sdlglsetup.h
+	<time.h>
+	"../include/Timer.h"
+	"FightScene.h"
+
+1371162538 c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\timer.h
+	<SDL/SDL.h>
+
+1371272362 c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\fightscene.h
+	"Fighter.h"
+
+1371175817 c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\fighter.h
+	"sprite.h"
+	"hitbox.h"
+
+1371175252 c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\sprite.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<soil.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1371145962 c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\hitbox.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371257052 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\fighter.cpp
+	"../include/Fighter.h"
+
+1371279966 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\fightscene.cpp
+	"../include/FightScene.h"
+
+1371146000 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\hitbox.cpp
+	"../include/Hitbox.h"
+
+1371171302 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\input.cpp
+	"../include/Input.h"
+
+1371171450 c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\include\input.h
+
+1371272486 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\sdlglsetup.cpp
+	"../include/SDLGLSetup.h"
+
+1371175260 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\sprite.cpp
+	"../include/Sprite.h"
+
+1371162524 source:c:\users\cody\dropbox\game\shattered_bonds\6-15-2013_shattered_bonds\src\timer.cpp
+	"../include/Timer.h"
+
